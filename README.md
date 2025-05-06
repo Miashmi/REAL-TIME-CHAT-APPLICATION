@@ -1,18 +1,4 @@
-# REAL-TIME-CHAT-APPLICATION--TASK2
-
-**Name:**   MIASHMI DILEEP
-
-**Company:** CODTECH IT SOLUTIONS  
-
-**ID:** CT0806NA
-
-**Domain:** FRONTEND WEB DEVELOPMENT
-
-**Duration:** DECEMBER 2024 TO JANUARY 2025
-
-**Mentor:** SRAVANI GOUNI
-
----
+# REAL-TIME-CHAT-APPLICATION
 
 ## **Overview of the Project**  
 
